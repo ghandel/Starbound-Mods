@@ -1,7 +1,7 @@
 {
     "name" : "First Mod!",
     "version" : "Beta v. Enraged Koala",
-    "path" : ".",
+    "path" : "assets",
     "dependencies" : [],
     "metadata" : {
         "author" : "Peach69",
