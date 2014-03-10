@@ -1,0 +1,11 @@
+{
+    "name" : "First Mod!",
+    "version" : "Beta v. Enraged Koala",
+    "path" : ".",
+    "dependencies" : [],
+    "metadata" : {
+        "author" : "Peach69",
+        "version" : "0.0",
+        "description" : "First mod. This one is a tester!"
+    }
+}

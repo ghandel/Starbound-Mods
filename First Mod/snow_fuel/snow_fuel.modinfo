@@ -1,0 +1,12 @@
+{
+    "name" : "drydirt_fuel",
+    "version" : "Beta v. Furious Koala",
+    "path" : "assets",
+    "dependencies" : [],
+    "metadata" : {
+        "diplayName" : "<dry dirt fuel>",
+        "author" : "<Peach69>",
+        "version" : "<1.0>",
+        "description" : "<Make dry dirt a fuel source.>"
+    }
+}
