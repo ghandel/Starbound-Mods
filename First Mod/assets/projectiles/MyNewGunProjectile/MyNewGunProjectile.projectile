@@ -1,0 +1,13 @@
+{
+"projectileName" : "MyNewGunProjectile",
+"frames" : "MyNewGunProjectileImage.png",
+"animationCycle" : 0.25,
+"level" : 3,
+"energyCostPerDamagePoint" : 1,
+"frameNumber" : 1,
+"damageKindImage" : "MyNewGunProjectileIconImage.png",
+"pointLight" : false,
+"actionOnReap" : [{"action" : "config","file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"}],
+"power" : 5.0,
+"damageKind" : "default"
+}

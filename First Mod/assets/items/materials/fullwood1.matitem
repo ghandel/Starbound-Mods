@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "inventoryIcon" : "fullwood1.png",
   "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
-  "description" : "Rough and unrefined, this wood looks freshly chopped.",
+  "description" : "Rough and unrefined, just like your mother last night.",
   "shortdescription" : "Unrefined Wood",
   "glitchdescription" : "Statement. Unrefined wood.",
   "florandescription" : "Unssstabbed wood.",

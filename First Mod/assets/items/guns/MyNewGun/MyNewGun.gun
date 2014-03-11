@@ -1,0 +1,32 @@
+{
+	"itemName" : "MyNewGun",
+	"inventoryIcon" : "MyNewGunIconImage.png",
+	"dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+	"maxStack" : "1",
+	"rarity" : "Rare",
+	"description" : "I like my new gun!",
+	"shortdescription" : "My New Gun",
+	"image" : "MyNewGunImage.png",
+	"handPosition" : [-5.5, -3],
+	"firePosition" : [12, 3],
+	"level" : "2",
+	"inspectionKind" : "gun",
+	"spread" : "1",
+	"weaponType" : "Shotgun",
+	"multiplier" : "0.35",
+	"accuracy" : "60",
+	"recoilTime" : "0.1",
+	"classMultiplier" : "0.4",
+	"fireTime" : "0.5",
+	"twoHanded" : "false",
+	"projectileType" : "MyNewGunProjectile",
+	"projectile" : {
+		"speed" : 60,
+		"power" : 25,
+		"color" : [10, 255, 10]
+	},
+	"muzzleEffect" : {
+		"animation" : "/animations/muzzleflash/gunmuzzleflash/MyNewGunMuzzleFlashImage.animation",
+		"fireSound" : [ { "file" : "/sfx/MyNewGunFireSound.wav" } ]
+	}
+}
